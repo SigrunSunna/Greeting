@@ -4,6 +4,7 @@
   "main": "app.js",
   "scripts": {
     "test": "jest",
+    "watch": "jest --watchAll",
     "clean": "rm -rf node_modules"
   },
   "repository": {
@@ -18,7 +19,6 @@
   "homepage": "https://github.com/SigrunSunna/Greeting#readme",
   "devDependencies": {
     "jest": "^23.6.0",
-    "jest-cli": "^23.6.0"
   },
   "dependencies": {},
   "description": ""
