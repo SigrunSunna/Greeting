@@ -1,0 +1,23 @@
+{
+  "name": "hugb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SigrunSunna/Greeting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SigrunSunna/Greeting/issues"
+  },
+  "homepage": "https://github.com/SigrunSunna/Greeting#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {},
+  "description": ""
+}
